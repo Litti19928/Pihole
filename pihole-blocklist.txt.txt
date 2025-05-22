@@ -50,3 +50,4 @@ vaillant.tt.omtrdc.net
 passwordsleakcheck-pa.googleapis.com
 p2p-fra2.discovery.steamserver.net
 e2c44.gcp.gvt2.com
+i.ytimg.com
