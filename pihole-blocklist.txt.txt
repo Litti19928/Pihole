@@ -44,3 +44,4 @@ stealthex.io
 www.bild.de
 googleads.g.doubleclick.net
 pubads.g.doubleclick.net
+www.google-analytics.com
