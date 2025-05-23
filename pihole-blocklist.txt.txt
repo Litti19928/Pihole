@@ -47,4 +47,6 @@ vaillant.demdex.net
 vaillant.tt.omtrdc.net
 p2p-fra2.discovery.steamserver.net
 e2c44.gcp.gvt2.com
+https://www.ticketmaster.ch/
+https://adstransparency.google.com/
 
