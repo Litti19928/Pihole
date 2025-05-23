@@ -50,4 +50,5 @@ e2c44.gcp.gvt2.com
 https://www.ticketmaster.ch/
 https://adstransparency.google.com/
 https://adstransparency.google.com/advertiser/AR17665456554398187521?origin=ata&region=DE
+https://adstransparency.google.com/advertiser/AR18382555065916325889?origin=ata&region=DE
 
