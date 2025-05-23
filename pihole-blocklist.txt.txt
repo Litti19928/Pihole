@@ -49,4 +49,5 @@ p2p-fra2.discovery.steamserver.net
 e2c44.gcp.gvt2.com
 https://www.ticketmaster.ch/
 https://adstransparency.google.com/
+https://adstransparency.google.com/advertiser/AR17665456554398187521?origin=ata&region=DE
 
