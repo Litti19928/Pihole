@@ -42,12 +42,9 @@ letsexchange.io
 xchange.me
 stealthex.io
 www.bild.de
-googleads.g.doubleclick.net
 pubads.g.doubleclick.net
-www.google-analytics.com
 vaillant.demdex.net
 vaillant.tt.omtrdc.net
-passwordsleakcheck-pa.googleapis.com
 p2p-fra2.discovery.steamserver.net
 e2c44.gcp.gvt2.com
 i.ytimg.com
