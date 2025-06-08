@@ -52,4 +52,5 @@ https://adstransparency.google.com/
 https://adstransparency.google.com/advertiser/AR17665456554398187521?origin=ata&region=DE
 https://adstransparency.google.com/advertiser/AR18382555065916325889?origin=ata&region=DE
 https://adstransparency.google.com/advertiser/AR12934667570979536897?origin=ata&region=DE
+https://adstransparency.google.com/advertiser/AR01018103580697034753?origin=ata&region=DE
 
