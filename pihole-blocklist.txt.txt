@@ -53,4 +53,11 @@ https://adstransparency.google.com/advertiser/AR17665456554398187521?origin=ata&
 https://adstransparency.google.com/advertiser/AR18382555065916325889?origin=ata&region=DE
 https://adstransparency.google.com/advertiser/AR12934667570979536897?origin=ata&region=DE
 https://adstransparency.google.com/advertiser/AR01018103580697034753?origin=ata&region=DE
+aax-eu.amazon.de
+aax-us-east.amazon-adsystem.com
+amazon-adsystem.com
+amazon-adsystem.de
+fls-na.amazon.com
+fls-eu.amazon.de
+
 
