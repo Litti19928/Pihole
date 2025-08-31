@@ -1,0 +1,4 @@
+fls-na.amazon.com
+fls-eu.amazon.de
+control.kochava.com
+device-metrics-us-2.amazon.com

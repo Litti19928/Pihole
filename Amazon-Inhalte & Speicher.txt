@@ -1,0 +1,2 @@
+s3.amazonaws.com
+s3-1.amazonaws.com

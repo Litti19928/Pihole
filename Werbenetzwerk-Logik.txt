@@ -1,0 +1,6 @@
+amazon-adsystem.com
+s.amazon-adsystem.com
+aax-us-iad.amazon.com
+aan.amazon.com
+gateway.prod.us-east-1.forester.a2z.com
+endpoint.prod.us-east-1.forester.a2z.com
