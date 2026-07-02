@@ -6,3 +6,10 @@ sp.analytics.yahoo.com
 udc.yahoo.com
 geo.yahoo.com
 beap.gemini.yahoo.com
+adsrvr.org
+advertising.com
+yieldmo.com
+criteo.com
+doubleclick.net
+googlesyndication.com
+googleadservices.com
