@@ -1,0 +1,8 @@
+ads.yahoo.com
+adserver.yahoo.com
+gemini.yahoo.com
+analytics.yahoo.com
+sp.analytics.yahoo.com
+udc.yahoo.com
+geo.yahoo.com
+beap.gemini.yahoo.com
