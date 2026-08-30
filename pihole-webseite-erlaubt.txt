@@ -20,4 +20,8 @@ gsa.apple.com
 apple.com
 mask.icloud.com
 mask-h2.icloud.com
-mask.icloud.com
+steamstatic.com
+steampowered.com
+telemetry-in.battle.net
+securepubads.g.doubleclick.net
+cdp.geotrust.com
